@@ -9,7 +9,6 @@ A system that manages a flight schedule at the airport
 using C.
 
 <br />
-<br />
 
 ### Built With
 
